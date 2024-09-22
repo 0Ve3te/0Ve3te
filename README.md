@@ -1,6 +1,6 @@
 ### Hey Szymon here 👋
 - 🌱 I'm currently learning technologies ASP.NET | Angular | Azure | Databases.
-- 👯 I'm looking to collaborate on Advanced Projects in ASP.NET Core, Angular & SignalR.
+- 👥 I'm looking to collaborate on Advanced Projects in ASP.NET Core, Angular & SignalR.
 
 </br>
 
