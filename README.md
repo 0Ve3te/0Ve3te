@@ -17,7 +17,7 @@ I am dedicated to self-improvement and constantly seeking new opportunities for 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20x; flex-wrap: wrap;">
   <img alt="CSharp-Icon" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img alt="Net-Core-Icon" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
-  <img alt="SQL-Icon" height="60" width="60" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" />
+  <img alt="SQL-Icon" height="60" width="60" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
   <img alt="Azure-Icon" height="60" width="60" src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png" />
   <img alt="Angular-Icon" height="60" width="60" src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" />
   <img alt="HTML5-Icon" height="60" width="60" src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png" />
