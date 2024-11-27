@@ -21,9 +21,9 @@ I am dedicated to self-improvement and constantly seeking new opportunities for 
   <img alt="Azure-Icon" height="60" width="60" src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png" />
   <img alt="Angular-Icon" height="60" width="60" src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" />
   <img alt="HTML5-Icon" height="60" width="60" src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png" />
+  <img alt="CSS3-Icon" height="60" width="60" src="https://www.cdnlogo.com/logos/c/18/css.svg" />
   <img alt="Type-Script-Icon" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
   <img alt="JS-Icon" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="CSS3-Icon" height="60" width="60" src="https://www.cdnlogo.com/logos/c/18/css.svg" />
   <img alt="Bootstrap5-Icon" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" />
   <img alt="UiPath-Icon" height="60" width="60" src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1720244493" />
 </div>
